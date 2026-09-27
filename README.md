@@ -1,6 +1,6 @@
 
 - # 💫 About Me:
-I'm currently working on Android development.<br>I'm learning Dsa in java.<br>I'm tech enthusiast and always ready to learn and try new technologies.
+I'm currently working on DevOps.<br>I'm learning DSA in C++.<br>I'm tech enthusiast and always ready to learn and try new technologies.
 
 
 ## 🌐 Socials:
